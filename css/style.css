@@ -1,4 +1,4 @@
-.container { 
+.body {
   display: grid;
   grid-template-rows: 1fr 75vh 1fr; }
 
