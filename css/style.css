@@ -1,0 +1,7 @@
+.container { 
+  display: grid;
+  grid-template-rows: 1fr 75vh 1fr; }
+
+.main {
+  display: grid;
+  grid-template-columns: 2fr 5fr; }

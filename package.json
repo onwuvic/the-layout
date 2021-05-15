@@ -1,0 +1,22 @@
+{
+  "name": "the-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onwuvic/the-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/onwuvic/the-layout/issues"
+  },
+  "homepage": "https://github.com/onwuvic/the-layout#readme"
+}
