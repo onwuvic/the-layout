@@ -5,3 +5,7 @@
 .main {
   display: grid;
   grid-template-columns: 2fr 5fr; }
+
+.section_main-text {
+  background-color: green;
+  font-size: large; }
