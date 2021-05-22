@@ -11,6 +11,12 @@
   background-color: green;
   font-size: large; }
 
+.section_side-nav {
+  background-color: blue;
+  text-align: center;
+  font-size: 30px;
+  font-family: monotype corsiva; }
+
 .header {
   background-color: yellow;
   text-align: center;
