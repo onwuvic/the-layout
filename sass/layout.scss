@@ -1,7 +1,9 @@
 .container {
     display: grid;  
-    grid-template-rows: 1fr 75vh 1fr; 
-}
+    grid-template-rows: 1fr 75vh 1fr;
+    padding: 15px;
+    
+}  
 
 .main{
       display: grid;
@@ -14,3 +16,12 @@
         font-size: large;
     }
 }
+.header{
+    background-color: yellow;
+    text-align: center;
+    font-size: x-large;
+    font-family:  sans-serif;
+    color: rgb(56, 4, 58);
+}
+
+ 
